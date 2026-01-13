@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Victor, tenho 24 anos, Atualmente moro no Rio de Janeiro, estou no 4° periodo do curso de Sistemas da informação na Unilasalle-RJ, Sou apaixonado por tecnologia e venho me adaptando ao cenário a cada dia".
+Me chamo João Victor, tenho 24 anos, Atualmente moro no Rio de Janeiro, estou no 4° periodo do curso de Sistemas da informação na Unilasalle-RJ, Sou apaixonado por tecnologia e venho me adaptando ao cenário a cada dia.
 
 <p align="left">
     
